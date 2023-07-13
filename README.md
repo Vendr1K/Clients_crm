@@ -24,3 +24,6 @@ node index
 - все действия сохраняются и обратываются через асинхронные запросы на сервер с помощью стандартных методов API
  
 
+![Снимок экрана (39)](https://github.com/Vendr1K/Clients_crm/assets/117863352/4e07fe79-160f-46ae-99f6-8dacf60d9671)
+![Снимок экрана (40)](https://github.com/Vendr1K/Clients_crm/assets/117863352/856333e5-554c-42cc-9106-bc22021c9a88)
+![Снимок экрана (41)](https://github.com/Vendr1K/Clients_crm/assets/117863352/c31537c2-ad2b-4a06-9b94-402f884ec7fe)
